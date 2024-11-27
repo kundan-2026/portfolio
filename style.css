@@ -512,9 +512,10 @@ nav .fa-solid {
 @media only screen and (max-width:800px) {
 
   #header {
-    background-image: url(photo.jpg);
+    background-image: url("download.gif");
+    
     height: auto;
-    color: black;
+    color: rgb(255, 255, 255);
     background-size: cover;
     /* width: 100%; */
   }
@@ -551,8 +552,7 @@ nav .fa-solid {
   nav .fa-solid {
     display: block;
     font-size: 25px;
-    color: #000000;
-    /* margin-top: 10px; */
+    color: #ffffff;
   }
 
   nav ul {
