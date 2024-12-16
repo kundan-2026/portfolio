@@ -1,1 +1,7 @@
 ![logo](image.png)
+![logo](about.png)
+![logo](experience.png)
+![logo](portfolio.png)
+![logo](project1.png)
+![logo](project2.png)
+![logo](end.png)
